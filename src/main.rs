@@ -1,3 +1,6 @@
+use ggez;
+use ggez::{Context, GameResult};
+
 fn main() {
-    println!("Hello, world!");
+    print!("Rusty Ping Pong Game!");
 }
